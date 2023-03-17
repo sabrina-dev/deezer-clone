@@ -4,7 +4,7 @@
 
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/219950427-c38b476c-11bd-45f3-a758-1e85cdb9c6eb.png)](https://www.youtube.com/watch?v=XmCSzo09yqY)
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS]
 
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
@@ -14,7 +14,7 @@ Come and check out my YOUTUBE channel for lots more tutorials -> https://www.you
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/deezer-clone.git
+
 
 npm i
 
